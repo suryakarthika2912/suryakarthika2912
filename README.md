@@ -8,7 +8,7 @@
 
 *Learning continuously. Building intentionally. Creating impact.*
 
-[💻 GitHub](https://github.com/suryakarthika2912) · [🌐 Portfolio](https://github.com/suryakarthika2912/portfolio_proj)
+[💻 GitHub](https://github.com/suryakarthika2912) · [🌐 Portfolio](https://github.com/suryakarthika2912/portfolio_proj) · [💼 LinkedIn](https://www.linkedin.com/in/surya-karthika-487b81377/)
 
 </div>
 
@@ -119,5 +119,6 @@ Every bug is a lesson. Every project is practice. Every small improvement compou
 ⭐ Explore my repositories · 💡 Follow my learning journey · 🚀 Let's build something meaningful
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryakarthika2912)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-karthika-487b81377/)
 
 </div>
